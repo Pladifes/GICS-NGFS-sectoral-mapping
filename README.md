@@ -1,2 +1,18 @@
 # GICS-NGFS-sectoral-mapping
 A mapping to link NGFS and GICS sectoral classifications, based on sectors' GHG emissions materiality.
+
+Portfolio climate-alignment exercises are limited by the mismatch between the sec-
+toral classifications used by asset managers and those of climate scenarios. To ad-
+dress this issue, this article focuses on a NGFS–GICS mapping, with NACE as the
+pivot classification. It is based on the materiality of Scope 1 and 2 GHG emissions
+rather than on semantic similarity. Then, this mapping is incorporated into a Sec-
+toral Decarbonization Approach that down-scales NGFS climate trajectories into
+GICS sector pathways. This approach adjusts the GICS sector pathways at a port-
+folio level with adjustment for regional exposure. Finally, this approach is applied on
+two illustrative ETF indices. The results show how differences in sectoral composi-
+tion and regional trajectories affect a portfolio’s financed GHG emissions trajectory.
+The proposed framework is transparent, asset-class agnostic and can be used as such
+by financial professionals for internal works such as climate stress-tests. The current
+GICS-NGFS mapping can be completed and expanded to better fit one’s needs.
+
+The paper linked to the tool will be available soon.
